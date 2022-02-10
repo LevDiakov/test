@@ -1,7 +1,7 @@
 let materialPrice = {
-  'wood': 2000,
+  'wood': 2000, // Это я внёс примечание
   'stone': 505,
-  'brick': 401
+  'brick': 5555 // внёс изменения в значение
 };
 
 let house = {
